@@ -7,12 +7,11 @@ Software Engineer
 I am currently in my sophomore year, pursuing a degree in Information Science and Technology at Temple University. My academic focus revolves around Cybersecurity and software development, reflecting my keen interest in these dynamic fields.
 
 * 🌍  I'm based in Philadelphia, Pennsylvania
-* 🖥️  See my portfolio at [My Website](http://portfolio.adobe.com/de8ddc06-1197-428f-a2ac-3a2ea802cf94/editor/)
 * ✉️  You can contact me at [antonioman44@gmail.com](mailto:antonioman44@gmail.com)
 * 🚀  I'm currently working on [Java Homework/Labs](http://github.com/Tonesman44/Java)
-* 🧠  I'm learning Java/Data Structures
+* 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on projects related to cybersecurity, software development or game development
-* ⚡  Fun Fact: I was on my High Schools Overwatch Esports team!
+* ⚡  Fun Fact: I'm on my college's Overwatch Esports Team!
 
 ### Skills
 
