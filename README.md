@@ -8,10 +8,10 @@ I am currently in my Junior year, pursuing a degree in Information Science and T
 
 * 🌍  I'm based in Philadelphia, Pennsylvania
 * ✉️  You can contact me at [antonioman44@gmail.com](mailto:antonioman44@gmail.com)
-* 🚀  I'm currently working on [Java Homework/Labs](http://github.com/Tonesman44/Java)
-* 🧠  I'm learning JavaScript
+* 🚀  I'm currently working on [React Project](https://github.com/Tonesman44/Project1-client-side-Fabrizio)
+* 🧠  I'm learning JavaScript & React
 * 🤝  I'm open to collaborating on projects related to cybersecurity, software development or game development
-* ⚡  Fun Fact: I'm on my college's Overwatch Esports Team!
+* ⚡  Fun Fact: I'm on my college's Marvel Rivals Esports Team!
 
 ### Skills
 
